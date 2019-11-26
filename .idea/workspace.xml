@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ee3ccb-390c-4121-b003-7689a8c699a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter4Studio/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4Studio/src/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/Chapter7Studio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/src/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/src/MultipleChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/src/MultipleSelectionQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/src/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/src/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7Studio/src/TrueFalseQuestion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,11 +31,17 @@
   <component name="ProjectId" id="1TJvYbEQye25iL7Dya8Vj3XBRqc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Donal\LC101\java\Studios\Chapter2Studio" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
